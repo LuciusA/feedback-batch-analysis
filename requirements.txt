@@ -1,0 +1,6 @@
+requests
+python-dotenv
+slack-sdk
+openai
+fuzzywuzzy
+python-Levenshtein
